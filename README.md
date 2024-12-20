@@ -1,6 +1,6 @@
-**caution** Possibly, this repository will turn to be private from April 
+**caution:** Possibly, this repository will turn to be private from April without no announcement.
 
-**still under construction**last update 12/22 
+**Still Under Construction:** last update 2024/12/22 
 
 
 # Graduation_program
@@ -10,6 +10,9 @@ The thesis treaded with the process of specilaziton in STS(Science and Techonolo
 Here are codes for
 
 - overviewing the collected STS papapers   (--> [Basic_Info](https://github.com/HirokiMiyabe/Graduation_program/tree/main/Basic_Info))
+- clustering the citation network by dendrogram.(--> )
 - embedding the papers and clustering them(--> [embedding_results](https://github.com/HirokiMiyabe/Graduation_program/tree/main/embedding_results))
--aaa
--aa
+- plotting the number of authors overlapped among journals
+  
+
+For more infomation, please read explain.txt on each folder.
