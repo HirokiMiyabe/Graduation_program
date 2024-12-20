@@ -1,4 +1,4 @@
-**caution:** Possibly, this repository will turn to be private from April without no announcement.
+**Caution:** Possibly, this repository will turn to be private from April without any announcement.
 
 **Still Under Construction:** last update 2024/12/22 
 
