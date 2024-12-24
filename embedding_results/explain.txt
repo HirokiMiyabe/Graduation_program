@@ -1,0 +1,5 @@
+data_cleaning_histgram: the figures of each term verters(3-dimensiotn)'s distribution. which was used for data_cleaning.
+
+plot_colored_journal:the html type figures of the embedding results(3-dimensiotn) colored by journals in each term.
+
+Variance_Betweeness.ipynb: python codes to caliculate variance of the embedding results
