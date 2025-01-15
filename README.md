@@ -12,7 +12,7 @@ Here are codes for
 - overviewing the collected STS papers   (--> [Basic_Info](https://github.com/HirokiMiyabe/Graduation_program/tree/main/Basic_Info))
 - clustering the citation network by dendrogram.(--> )
 - embedding the papers and clustering them(--> [embedding_results](https://github.com/HirokiMiyabe/Graduation_program/tree/main/embedding_results))
-- plotting the number of authors overlapped among journals
+- plotting the number of authors overlapped among journals(--> [OverLapping_Authors](https://github.com/HirokiMiyabe/Graduation_program/tree/main/OverLapping_Authors))
   
 
 For more infomation, please read explain.txt on each folder.
