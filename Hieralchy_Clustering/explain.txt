@@ -1,0 +1,5 @@
+Hieralchal Clustering 
+
+1. make the co-occurance matrix based on the citation infomation.
+
+2. make the demdrogram
